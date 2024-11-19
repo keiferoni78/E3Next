@@ -340,7 +340,11 @@ namespace E3Core.Processors
                         }
                         else
                         {
+<<<<<<< HEAD
                            // MQ.Cmd($"/t {whoToGiveTo} I'm afraid I can't do that, as I don't have any {whatToGive}");
+=======
+                            //MQ.Cmd($"/t {whoToGiveTo} I'm afraid I can't do that, as I don't have any {whatToGive}");
+>>>>>>> 1d1672874dccc324d422ae407b7cddc09885579f
                             return;
                         }
                     }
